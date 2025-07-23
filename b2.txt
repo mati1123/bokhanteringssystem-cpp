@@ -1,0 +1,9 @@
+Erik Johansson;2023-06-20
+1984;George Orwell;1949
+Brave New World;Aldous Huxley;1932
+Fahrenheit 451;Ray Bradbury;1953
+Animal Farm;George Orwell;1945
+The Great Gatsby;F. Scott Fitzgerald;1925
+Of Mice and Men;John Steinbeck;1937
+East of Eden;John Steinbeck;1952
+Lord of the Flies;William Golding;1954
